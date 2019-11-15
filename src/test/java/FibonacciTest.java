@@ -14,6 +14,6 @@ public class FibonacciTest
     }
     @Test
     public void test3() {
-        Assertions.assertEquals(8, Fibonacci.MyFib((6)));
+        Assertions.assertEquals(7, Fibonacci.MyFib((6)));
     }
 }
